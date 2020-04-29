@@ -18,7 +18,7 @@
 ## How to work with this application 
 - clone the application: `https://github.com/AlanKostrick/java-react-demo.git`
 - cd into `server-side`
-- run `gradle eclipse` if you plan on using Eclipse as your IDE...with intelliJ is just ... works?
+- run `gradle eclipse` if you plan on using Eclipse as your IDE...with intelliJ it just ... works?
 - importing into Eclipse and running the project will spin up a backend server at `localhost:8080`
 - cd into `client-side`
 - run `npm install`
