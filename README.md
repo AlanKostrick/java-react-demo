@@ -26,3 +26,5 @@
 - run the terminal in vs code and key in `npm start` to fire the server at `localhost:3000`
 
 We will be working in `java-react-demo/client-side/src/components/campuses/index.js` together
+
+[Want to see a video for installation instructions? Click Here!](https://youtu.be/CiGSn-BsFGY)
