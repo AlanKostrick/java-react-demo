@@ -1,6 +1,8 @@
 import React from 'react';
-import Campus from './components/campuses';
+
 import Home from './pages/home';
+import Campuses from './pages/campuses';
+
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
 
 function App() {
@@ -9,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Switch>
         <Route exact path='/' component={Home} />
-        <Route exact path='/campuses' component={Campus} />
+        <Route exact path='/campuses' component={Campuses} />
       </Switch>
     </BrowserRouter>
   );

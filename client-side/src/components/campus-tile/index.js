@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Campus = ({ campus }) => {
+const CampusTile = ({ campus }) => {
     const { name, bootcamps } = campus;
 
     return (
@@ -17,4 +17,4 @@ const Campus = ({ campus }) => {
     )
 }
 
-export default Campus;
+export default CampusTile;
